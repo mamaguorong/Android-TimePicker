@@ -6,7 +6,7 @@
 ### 1.可以选择时间段
 
 
-![TimePicker.gif](https://github.com/Bigkoo/Android-PickerView/blob/master/preview/img.png)
+![img.png](https://github.com/mamaguorong/Android-TimePicker/tree/main/preview/img.png)
 
 
 
